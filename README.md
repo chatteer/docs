@@ -15,7 +15,7 @@
 ## 기능
 |프로토콜|기능|포지션|
 |---|---|---|
-|HTTP|회원 가입 (Google SNS)|Server,Mobile|
+|HTTP|회원 가입 (Google SNS)|Server, Mobile|
 |HTTP|로그인 (Google SNS)|Server, Mobile|
 |HTTP|프로필 변경(이름, 이미지)|Server, Mobile|
 |TCP|채팅방 개설|Server, Client|
@@ -38,5 +38,4 @@
 2. 이전에 채팅한 히스토리를 가져옵니다.
 3. 자유롭게 1:1 채팅을 이용합니다.
 4. 채팅방 나가면 대화를 나눴던 내용들은 서버에 저장됩니다.
-5. 
 
