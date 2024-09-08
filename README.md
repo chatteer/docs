@@ -19,3 +19,4 @@
 
 ## 테크스펙
 - [Android](https://github.com/chatteer/docs/wiki/%5BTechSpec%5D-Android)
+- [성능점검](https://github.com/chatteer/docs/wiki/%5BTechSpec%5D-TCP-Client-%EC%84%B1%EB%8A%A5-%EC%A0%90%EA%B2%80)
